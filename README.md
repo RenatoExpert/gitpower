@@ -1,5 +1,5 @@
 # Curso de Git
-## Indice
+## Índice
 ### I - Unix Básico
  - Manipulação de arquivos e diretórios via shell
  - Edição de arquivos no terminal
